@@ -15,7 +15,7 @@ To use code from the BSP, simply include a reference to `cybsp.h`.
 
 ### Kit Features:
 
-* XMC4500 Microcontroller (ARM Cortex-M4F based)
+* XMC4500 Microcontroller (ARM® Cortex®-M4F based)
 * On-board Debug Probe with USB interface supporting SWD + SWO
 * Detachable J-Link debugger and UART virtual COM port, with micro USB connector
 * Virtual COM Port via Debug Probe
